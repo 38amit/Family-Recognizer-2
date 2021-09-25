@@ -1,0 +1,41 @@
+.heading {
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 5px 22px white;
+    font-family: 'Bonheur Royale', cursive;
+}
+    
+.heading div {
+background-color:mediumslateblue;
+float: none;
+padding: 10px;
+border-radius: 20px;
+box-shadow: 10px 5px 30px white;
+color: black;
+font-family: 'Bonheur Royale', cursive;
+}
+
+.heading_div2 {
+    font-size: 20px;
+    font-family: 'Bonheur Royale', cursive;
+}
+
+.copy_right_footer {
+position: fixed;
+color: black;
+bottom: 0;
+width: 100%;
+line-height: 3;
+text-align: center;
+font-family: 'Bonheur Royale', cursive;
+font-size: 20px;
+}
+
+.result_para_tag {
+    border: royalblue;
+    border-radius: 10px;
+    box-shadow: 10px 5px 20px skyblue;
+    font-family: 'Bonheur Royale', cursive;
+    font-size: 25px;
+}
